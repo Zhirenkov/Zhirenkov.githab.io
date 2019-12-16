@@ -1,0 +1,13 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+h1 {
+    color: blue;
+}
+.header {    
+    background: #c7b39b url(img/bg1blok.JPG); /* Цвет фона и путь к файлу */}
+.figure {
+
+    z-index: -1;
+}
+  
