@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html, body {
+	height: 100%;
+}
+figure {
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6kVNnh1nOeKfPOIX8KAKXVHUIfrPeyGMQCZmn87lnUuJJhhXW");
+	background-position: center;
+	background-size: cover ;
+	background-repeat: no-repeat;
+	position: relative;
+	min-height: 100%;
+	min-width: 100%;
+}
+
+li {display: inline;
+	font-size: 20px;
+}
+.image {
+	position	: relative;
+	width		: 100%;  
+}
+
+h3 {
+	position	: absolute;
+	top		: 200px;
+	left		: 0;
+	width		: 100%;
+}
