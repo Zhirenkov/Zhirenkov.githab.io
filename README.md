@@ -9,4 +9,4 @@
 
 [Модуль 5. Урок № 16](https://zhirenkov.github.io/Slider-elbrus/ "Моя готовая домашка")
 
-[выдумал](https://zhirenkov.github.io/29012020testgagr/ "Работа")
+[Модуль 5. Урок № 16](https://zhirenkov.github.io/29012020testgagr/ "Моя готовая домашка")
