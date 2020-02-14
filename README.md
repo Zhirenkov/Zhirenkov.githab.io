@@ -10,3 +10,5 @@
 [Модуль 5. Урок № 16](https://zhirenkov.github.io/Slider-elbrus/ "Моя готовая домашка")
 
 [Модуль 5. Урок № 16](https://zhirenkov.github.io/29012020testgagr/ "Моя готовая домашка")
+
+[Ведьмак](https://zhirenkov.github.io/fevral-intensiv// "Интенсив 02.2020")
