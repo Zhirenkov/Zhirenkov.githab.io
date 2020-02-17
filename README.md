@@ -13,4 +13,4 @@
 
 [Ведьмак](https://zhirenkov.github.io/fevral-intensiv// "Интенсив 02.2020")
 
-[Эль](https://Zhirenkov.github.io/Slider-elbrus 17022020// "Временный процес 17022020")
+[Мебель](https://Zhirenkov.github.io/Slider-elbrus 17022020// "Временный процес 17022020")
