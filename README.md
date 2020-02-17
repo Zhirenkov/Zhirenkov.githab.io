@@ -12,3 +12,5 @@
 [Модуль 5. Урок № 16](https://zhirenkov.github.io/29012020testgagr/ "Моя готовая домашка")
 
 [Ведьмак](https://zhirenkov.github.io/fevral-intensiv// "Интенсив 02.2020")
+
+[Эль](https://Zhirenkov.github.io/Slider-elbrus 17022020// "Временный процес 17022020")
