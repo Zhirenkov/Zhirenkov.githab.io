@@ -1,0 +1,149 @@
+body {
+    background-color: #141218;
+   /* font-family: 'Roboto', sans-serif;*/
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    
+    
+    /*background-image: url('../img/1.jpg');
+    background-repeat: no-repeat;*/
+    
+    
+}   
+
+.header {
+	font-style: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+.header, span {
+	display: block;	
+}
+  .section {
+  	/*background-color: #ccc;*/
+	padding: 30px 0;
+	 
+	}
+
+.container, .col-lg-6 {
+	<!border: 2px solid red; -->
+}
+.form {
+	border: 5px solid #2727d9;
+	padding: 35px 20px;
+	}
+	.form input {
+		margin-bottom: 12px;
+    }
+    .forma-box {
+        height: 300px;
+        width: 100%;
+    }
+
+.form-header, .section-header {	 
+	font-size: : 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form-btn {
+	margin: 10px auto;
+	background-color: #2727d9;
+}
+ .feature {
+ 	margin: 60px auto;
+ }
+ .feature p {
+ 	margin-top: 20px;
+ }
+ .video {
+ 	margin-bottom: 30px;
+ }
+ .feature-box {
+height: 160px;
+margin-left: 50px;
+ }
+ .section-header {
+	 margin-top: 100px;
+ }
+ .maps {
+	margin: 100px auto;
+ }
+ .footer-vopros {
+	 text-align: center;
+	 margin-bottom: 100px auto;
+ }
+ .containerProsro {
+	 text-align: center;
+	 margin: 100px auto;
+	
+ }
+ /*.fotorama1 {
+	height: 100vh; /* высота секции равна высоте области просмотра 
+ } 
+*/
+
+
+.opisanieVsehProduktov, .col-lg-6 {
+	margin: 65px auto;
+}
+
+
+
+
+
+
+/* footer*/
+.footer {
+    background-color: #141218;
+    padding: 20px 0px;
+    margin-top: auto;
+
+}
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-link {
+    text-decoration: none;
+    color: #3a383d;
+    margin-left: 25px;
+}
+.copyright {
+    color: #3a383d;
+}
+
+
+
+
+
+ // Экстрамалые девайсы («телефоны», < 576px)
+ // Нет @media, т.к. это по умолчанию в Bootstrap
+ 
+ // Малые девайсы («ландшафтные телефоны», >= 576px)
+ @media (min-width: 576px) { ... }
+ 
+ // Средние девайсы («таблетки», >= 768px)
+ @media (min-width: 768px) { ... }
+ 
+ // Большие девайсы (десктопы, >= 992px)
+ @media (min-width: 992px) { ... }
+ 
+ // Экстрабольшие девайсы (большие десктопы, >= 1200px)
+ @media (min-width: 1200px) { ... }
+
+ // Экстрамалые девайсы («телефоны», < 576px)
+@media (max-width: 575.98px) { ... }
+
+// Малые девайсы («ландшафтные», < 768px)
+@media (max-width: 767.98px) { ... }
+
+// Средние девайсы («таблетки», < 992px) 
+@media (max-width: 991.98px) { ... }
+
+// Большие девайсы (большие десктопы, < 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// Экстрабольшие девайсы (большие десктопы)
+// Тут нет @media, т.к. такие брейпкойнты не имеют верхней границы по ширине width
